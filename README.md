@@ -2,7 +2,7 @@ Smart Feedback Collection and Analysis System:
 
 A full-stack web application that collects customer feedback, performs real-time sentiment analysis, and visualizes insights using interactive charts. Built with React (frontend), Node.js + Express (backend), and MongoDB (database) with JWT authentication and role-based access.
 
-🚀 Features
+🚀 Features:
 ✅ User Features
 
 Register/Login using secure JWT authentication
